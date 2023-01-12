@@ -1,5 +1,8 @@
 package org.logicalnumbers;
 
+import java.util.LinkedHashSet;
+import java.util.Set;
+
 public class Reversenumber {
 	
 	public static void main(String[] args) {
@@ -25,8 +28,22 @@ public class Reversenumber {
 	        
 	        System.out.println("sum of the value is "+ sum); 
 	        
-	        System.out.println("Git Hub try");
+System.out.println("Git Hub try");
 
+	        Set<Integer> s = new LinkedHashSet<>();
+	        s.add(18);
+	        s.add(19);
+	        s.add(24);
+	        s.add(36);
+	        s.add(24);
+	        s.add(37);
+	
+	        for (Integer integer : s) {
+System.out.println(integer);				
+			}
+	        
+	        System.out.println("MERGING GITHUB");
+	        
 	}
 	 
                    	 

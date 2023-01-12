@@ -25,7 +25,7 @@ public class ArrayProgramme {
     System.out.print("maximum value" + a[a.length-1]);
     
     
-    
+    System.out.println("Git Hub try");
    
       
       }
