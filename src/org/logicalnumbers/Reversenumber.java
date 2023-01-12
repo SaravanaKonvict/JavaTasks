@@ -28,6 +28,8 @@ public class Reversenumber {
 	        
 	        System.out.println("sum of the value is "+ sum); 
 	        
+System.out.println("Git Hub try");
+
 	        Set<Integer> s = new LinkedHashSet<>();
 	        s.add(18);
 	        s.add(19);
